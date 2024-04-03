@@ -8,3 +8,7 @@ Sample output:
 Hello World!
 
 """
+
+print("Hello world!")
+print(" ")
+print('"""')
